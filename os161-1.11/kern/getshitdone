@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd conf
+./config "ASST$1"
+cd ..
+cd compile
+cd "ASST$1"
+make depend
+make
+make install

@@ -1,0 +1,19 @@
+/Makefile/1.1.1.1/Wed Sep 19 04:04:30 2012//
+/README/1.1.1.1/Wed Sep 19 04:04:30 2012//
+/uw-prog.mk/1.1.1.1/Wed Sep 19 04:04:30 2012//
+D/argtest////
+D/common////
+D/segments////
+D/syscall////
+D/vm-crash1////
+D/vm-crash2////
+D/vm-crash3////
+D/vm-data1////
+D/vm-data2////
+D/vm-data3////
+D/vm-mix1////
+D/vm-mix1-exec////
+D/vm-mix1-fork////
+D/vm-mix2////
+D/vm-stack1////
+D/vm-stack2////

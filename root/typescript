@@ -1,0 +1,41 @@
+Script started on Wed 19 Sep 2012 01:08:27 AM EDT
+1%>linux024:[1m~/cs350-os161/root[0m> sys161 kernel
+sys161: System/161 release 1.99.05, compiled May  1 2012 20:58:37
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+Put-your-group-name-here's system version 0 (ASST0 #2)
+
+Hello World
+Cpu is MIPS r2000/r3000
+336k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+OS/161 kernel [? for menu]: q <return>
+Shutting down.
+The system is halted.
+sys161: 211565514 cycles (3401167 run, 208164347 global-idle)
+sys161:   cpu0: 3401167 kern, 0 user, 0 idle)
+sys161: 1451 irqs 0 exns 0r/0w disk 11r/634w console 0r/0w/1m emufs 0r/0w net
+sys161: Elapsed real time: 8.459448 seconds (25.0094 mhz)
+sys161: Elapsed virtual time: 8.462620577 seconds (25 mhz)
+1%>linux024:[1m~/cs350-os161/root[0m> exit
+exit
+
+Script done on Wed 19 Sep 2012 01:08:41 AM EDT
